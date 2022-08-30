@@ -44,3 +44,21 @@ Notes to help study for a Kubernetes certification.
 
 ### CKAD and CKA curriculum comparison
 <img src="images/CKAD-CKA-curriculum.png" alt="CKAD and CKA Curriculum">
+
+---
+
+## Study materials and test prep
+There are lots of resources out there, but below are highly recommended.
+
+In short, you need to be familiar with all the materials but, it is MOST important to practice practice practice. The test is situational and you will have to solve problems, not just regurgitate information.
+
+### Udemy course
+* [CKAD course](https://www.udemy.com/course/certified-kubernetes-application-developer/)
+* [CKA course with tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+
+### Killer Shell
+* When you feel you're nearing being ready to sit the exam, there is no better resource than [Killer Shell - CKS CKA CKAD Simulator](https://killer.sh/). It will give you access to an environment that is about as close to the actual test environment as you can get. And it is designed to be much harder than the actual exam. My biggest issue with the KodeKloud practice exams is that they were pretty easy overall. Great for practice & learning; not as great once you know everything and are looking to challenge yourself in advance of the exam.
+* It comes with two sessions, so what you should do is make your first attempt, then study the results and see where you need more focused study. Reset the exam as many times as you need within each 36hr session to get better at this. If you get to where you can ace this one, you should breeze through the actual exam.
+* And the best news here is that when you purchase your voucher for the exam, you'll get two sessions for killer.sh as part of that, with no additional cost. (So don't go pay money directly for killer.sh unless you think you'll need more than two sessions.)
+
+> Killer Shell recommendation from [Brandon Sharp](https://github.com/BrandonSharp)
